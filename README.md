@@ -1,5 +1,7 @@
 # readmoc mirror
 
+General usage: > readmoc xx0202.imq xx0202.img
+
 readmoc will decompress a MOC SDP image and format it into a
 decompressed PDS image file with PDS labels and an image object.
 
